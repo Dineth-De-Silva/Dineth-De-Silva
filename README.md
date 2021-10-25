@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Lot of things**
 
-- 📝 I regularly write articles on [dineth-de-silva.github.io/myblog](dineth-de-silva.github.io/myblog)
+- 📝 I regularly write articles on [https://dineth-de-silva.github.io/MyBlog](MyBlog)
 
 - ⚡ Fun fact **I love math & music**
 
