@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dineth</h1>
-<h3 align="center">Young developer born at very little age</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dineth-de-silva&label=Profile%20views&color=ffffff&style=flat" alt="dineth-de-silva" /> </p>
+<h3 align="center">A self-taught programmer and born at very little age 😜</h3>
 
 - 🔭 I’m currently working on [MyBlog](https://github.com/Dineth-De-Silva/MyBlog)
 
