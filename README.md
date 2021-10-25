@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dineth</h1>
+<h1 align="center">Hi 👋, I'm Dineth De Silva</h1>
 <h3 align="center">A self-taught programmer and born at very little age 😜</h3>
 
 - 🔭 I’m currently working on [MyBlog](https://github.com/Dineth-De-Silva/MyBlog)
