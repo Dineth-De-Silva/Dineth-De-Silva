@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineth-de-silva&show_icons=true&locale=en&layout=compact" alt="dineth-de-silva" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineth-de-silva&show_icons=true&locale=en" alt="dineth-de-silva" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineth-de-silva&" alt="dineth-de-silva" /></p>
