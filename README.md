@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dineth De Silva</h1>
 <h3 align="center">A self-taught programmer and born at very little age 😜</h3>
 
-- 🔭 I’m currently working on [my portfolio](http://localhost:8080/blog)
+- 🔭 I’m currently working on [my portfolio](https://dineth.netlify.app/)
 
 - 🌱 I’m currently learning **Lot of things**
 
-- 📝 I regularly write articles on [my blog](http://localhost:8080/blog)
+- 📝 I regularly write articles on [my blog](https://dineth.netlify.app/blog/)
 
 - ⚡ Fun fact **I love math & music**
 
