@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Dineth-De-Silva&theme=meta-dark&hide_border=true&border_radius=35.5&date_format=j%20M%5B%20Y%5D&card_height=215)](https://git.io/streak-stats)
 
 
-![Top Langs](https://github-readme-stats-dineth.vercel.app/api/top-langs/?username=Dineth-De-Silva&theme=meta_dark&hide_border=true&border_radius=35.5&layout=compact)
+![Top Langs](https://github-readme-stats-dineth.vercel.app/api/top-langs/?username=Dineth-De-Silva&theme=meta_dark&hide_border=true&border_radius=35.5&layout=compact&text_color=ffffff)
 
 The best way to contact me is to use my email address which is present at the top of most calibre or kitty source code files.
