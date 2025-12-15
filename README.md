@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Dineth-De-Silva&theme=dark&hide_border=true&border_radius=35.6&date_format=j%20M%5B%20Y%5D&card_height=215)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineth-De-Silva&layout=compact&theme=dark&border_radius=35.6&hide_border=true)
+The best way to contact me is to use my email address which is present at the top of most calibre or kitty source code files.
