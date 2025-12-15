@@ -20,7 +20,18 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats-dineth.vercel.app/api/top-langs/?username=Dineth-De-Silva&theme=meta_dark&hide_border=true&border_radius=35.5&layout=compact&text_color=ffffff)
 
-![GitHub stats](https://github-readme-stats-dineth.vercel.app/api?username=Dineth-De-Silva&theme=meta_dark&show_icons=true&hide_border=true&border_radius=35.5#gh-light-mode-only)
-![GitHub stats](https://github-readme-stats-dineth.vercel.app/api?username=Dineth-De-Silva&theme=meta_dark&show_icons=true&hide_border=true&border_radius=35.5#gh-dark-mode-only)
+<!--![GitHub stats](https://github-readme-stats-dineth.vercel.app/api?username=Dineth-De-Silva&theme=meta_dark&show_icons=true&hide_border=true&border_radius=35.5)-->
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-dineth.vercel.app/api?username=Dineth-De-Silva&theme=meta_dark&show_icons=true&hide_border=true&border_radius=35.5"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-dineth.vercel.app/api?username=Dineth-De-Silva&theme=dark&show_icons=true&hide_border=true&border_radius=35.5"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-dineth.vercel.app/api?username=Dineth-De-Silva&show_icons=true&hide_border=true&border_radius=35.5" />
+</picture>
 
 The best way to contact me is to use my email address which is present at the top of most calibre or kitty source code files
