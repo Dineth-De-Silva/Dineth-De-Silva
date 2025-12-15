@@ -18,20 +18,9 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Dineth-De-Silva&theme=meta-dark&hide_border=true&border_radius=35.5&date_format=j%20M%5B%20Y%5D&card_height=215)
 
 
-![Top Langs](https://github-readme-stats-dineth.vercel.app/api/top-langs/?username=Dineth-De-Silva&theme=meta_dark&hide_border=true&border_radius=35.5&layout=compact&text_color=ffffff)
+![Top Langs](https://github-readme-stats-dineth.vercel.app/api/top-langs/?username=Dineth-De-Silva&theme=meta_dark&hide_border=true&border_radius=35.5&layout=compact&text_color=FFFFFF)
 
-<!--![GitHub stats](https://github-readme-stats-dineth.vercel.app/api?username=Dineth-De-Silva&theme=meta_dark&show_icons=true&hide_border=true&border_radius=35.5)-->
+![GitHub stats](https://github-readme-stats-dineth.vercel.app/api?username=Dineth-De-Silva&theme=meta_dark&show_icons=true&hide_border=true&border_radius=35.5&ring_color=0081FB)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-dineth.vercel.app/api?username=Dineth-De-Silva&theme=meta_dark&show_icons=true&hide_border=true&border_radius=35.5"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-dineth.vercel.app/api?username=Dineth-De-Silva&theme=dark&show_icons=true&hide_border=true&border_radius=35.5"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-dineth.vercel.app/api?username=Dineth-De-Silva&show_icons=true&hide_border=true&border_radius=35.5" />
-</picture>
 
 The best way to contact me is to use my email address which is present at the top of most calibre or kitty source code files
